@@ -1,5 +1,3 @@
-SEE: https://gist.github.com/brannow/4e9bd53c5b58d3c7d579001ce45cc0c5
-
 # TP-Link WiFi SmartPlug Client and Wireshark Dissector
 
 For the full story, see [Reverse Engineering the TP-Link HS110](https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/)
